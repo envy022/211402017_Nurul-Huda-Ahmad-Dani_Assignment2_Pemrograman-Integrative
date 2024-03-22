@@ -29,5 +29,5 @@ def main():
         print(grade)
 
 if __name__ == "__main__":
-    print("Judul Program: Menghitung Rata-rata Inputan Pengguna")  # Judul Program
+    print("Judul Program: Menghitung Rata-rata Inputan Pengguna") 
     main()
